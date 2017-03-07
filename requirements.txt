@@ -1,0 +1,10 @@
+dotobject==1.2.1
+oauthlib==2.0.1
+redis==2.10.5
+redisworks==0.2.7
+requests==2.13.0
+requests-oauthlib==0.8.0
+six==1.10.0
+telepot==10.4
+tweepy==3.5.0
+urllib3==1.20
